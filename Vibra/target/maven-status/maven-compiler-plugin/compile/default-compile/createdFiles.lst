@@ -1,0 +1,5 @@
+com\example\Vibra\VibraApplication.class
+com\example\Vibra\controller\UserController.class
+com\example\Vibra\service\UserService.class
+com\example\Vibra\repository\UserRepository.class
+com\example\Vibra\model\User.class
